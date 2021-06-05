@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1585135658 source:d:\tubes2020\tubesvitonaufal\list_tag.cpp
+	"List_tag.h"
+
+1585135297 d:\tubes2020\tubesvitonaufal\list_tag.h
+	<iostream>
+
+1585135573 source:d:\tubes2020\tubesvitonaufal\list_artikel.cpp
+	"List_artikel.h"
+
+1585135299 d:\tubes2020\tubesvitonaufal\list_artikel.h
+	<iostream>
+
+1585135526 d:\tubes2020\tubesvitonaufal\list_relasi.h
+	"List_tag.h"
+	<iostream>
+	"List_artikel.h"
+
+1585135816 source:d:\tubes2020\tubesvitonaufal\list_relasi.cpp
+	"List_relasi.h"
+
+1585134797 source:d:\tubes2020\tubesvitonaufal\main.cpp
+	<iostream>
+	<conio.h>
+	"main_menu.h"
+
+1585133562 source:d:\tubes2020\tubesvitonaufal\main_menu.cpp
+	"main_menu.h"
+
+1585135526 d:\tubes2020\tubesvitonaufal\main_menu.h
+	<iostream>
+	"List_artikel.h"
+	"List_relasi.h"
+	"List_tag.h"
+
+1585135573 source:d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\list_artikel.cpp
+	"List_artikel.h"
+
+1585135299 d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\list_artikel.h
+	<iostream>
+
+1585135816 source:d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\list_relasi.cpp
+	"List_relasi.h"
+
+1585135526 d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\list_relasi.h
+	"List_tag.h"
+	<iostream>
+	"List_artikel.h"
+
+1585135297 d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\list_tag.h
+	<iostream>
+
+1585135658 source:d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\list_tag.cpp
+	"List_tag.h"
+
+1585134797 source:d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\main.cpp
+	<iostream>
+	<conio.h>
+	"main_menu.h"
+
+1585135526 d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\main_menu.h
+	<iostream>
+	"List_artikel.h"
+	"List_relasi.h"
+	"List_tag.h"
+
+1585135985 source:d:\tugas kuliah\semester 2\std\tubesvitonaufal\tubesvitonaufal\main_menu.cpp
+	"main_menu.h"
+
+1585221284 source:d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\list_artikel.cpp
+	"List_artikel.h"
+
+1585199827 d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\list_artikel.h
+	<iostream>
+
+1585220943 source:d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\list_tag.cpp
+	"List_tag.h"
+
+1585220690 d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\list_tag.h
+	<iostream>
+
+1585199930 source:d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\main.cpp
+	<iostream>
+	<conio.h>
+	"main_menu.h"
+
+1585199959 d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\main_menu.h
+	<iostream>
+	"List_artikel.h"
+	"List_relasi.h"
+	"List_tag.h"
+
+1585225097 d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\list_relasi.h
+	"List_tag.h"
+	<iostream>
+	"List_artikel.h"
+
+1585373464 source:d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\main_menu.cpp
+	"main_menu.h"
+
+1585225123 source:d:\tugas kuliah\semester 2\std\tubes\tubes sll\tubesvitonaufal\tubesvitonaufal\list_relasi.cpp
+	"List_relasi.h"
+
